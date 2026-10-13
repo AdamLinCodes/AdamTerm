@@ -1,5 +1,7 @@
 # AdamTerm
 
+I was messing around with [REA](https://github.com/morluto/rea) and wanted to see what it could do, so I pointed it at Ghostty and had it rebuild the shell as a tiny terminal of my own.
+
 A minimal macOS terminal built by reverse-engineering Ghostty 1.3.1 with REA
 (Reverse Engineer Anything, an MCP toolkit that inspects shipped binaries) and
 rebuilding its native shell around SwiftTerm (a Swift terminal-emulator library).
